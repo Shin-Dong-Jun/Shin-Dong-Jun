@@ -36,6 +36,14 @@ Java와 Spring을 중심으로 백엔드 개발을 공부하고 있는 신동준
 ### DevOps & Tools
 <img src="https://skillicons.dev/icons?i=docker,aws,linux,nginx,git,githubactions&theme=dark" />
 
+## AI
+<p>
+
+  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+
+</p>
 ## 현재 학습 중인 내용
 
 - Java, Spring Boot, Spring Security, JPA
@@ -76,14 +84,6 @@ AI를 단순히 코드 생성 도구로만 사용하지 않고,
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shin-Dong-Jun&layout=compact&theme=github_dark&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Shin-Dong-Jun&theme=github-dark-blue&hide_border=true)
-
-</div>
-
-## Activity
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shin-Dong-Jun&theme=github-dark&hide_border=true)
 
 </div>
 
