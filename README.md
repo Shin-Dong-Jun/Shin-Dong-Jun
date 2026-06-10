@@ -68,6 +68,7 @@
 
 </div>
 
+![snake gif](https://github.com/Shin-Dong-Jun/Shin-Dong-Jun/blob/output/github-snake-dark.svg)
 ## Contact
 
 - Email: your-email@example.com
