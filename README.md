@@ -45,34 +45,6 @@ Java와 Spring을 중심으로 백엔드 개발을 공부하고 있는 신동준
 - Docker, Nginx, GitHub Actions를 활용한 배포
 - AI 도구를 활용한 코드 분석, 리팩토링, 문서화
 
-## 진행 중인 프로젝트
-
-### BOL4 FanHub `In Progress`
-
-볼빨간사춘기 팬들을 위한 커뮤니티 서비스입니다.
-
-단순한 팬페이지가 아니라,  
-회원, 게시글, 댓글, 좋아요, 공지 기능을 포함한  
-**Spring Boot 기반 백엔드 포트폴리오 프로젝트**로 개발하고 있습니다.
-
-### 주요 기능
-
-- 회원가입 / 로그인
-- JWT 기반 인증
-- 게시글 CRUD
-- 댓글 CRUD
-- 좋아요 기능
-- 관리자 공지 기능
-
-### 백엔드 구현 포인트
-
-- Controller / Service / Repository 계층 분리
-- Entity 직접 반환을 피하고 DTO 사용
-- Global Exception Handler를 통한 예외 처리
-- JPA 연관관계 설계
-- 인증 / 인가 흐름 설계
-- Redis를 활용한 확장 기능 고민
-
 ### Tech Stack
 
 - Java
