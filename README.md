@@ -1,6 +1,18 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Java+%7C+Spring+%7C+Database;AI-assisted+Backend+Development)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:8B5CF6,100:FF9EC4&height=220&section=header&text=Shin%20Dong%20Jun&fontSize=48&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Java%20%7C%20Spring%20%7C%20Backend%20%7C%20AI-assisted%20Development&descSize=17&descAlignY=58&descAlign=50" />
+
+<br/>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+Developer+in+Training;Java+%7C+Spring+%7C+Database;Learning+with+AI-assisted+Development;Building+reliable+server-side+systems)
+
+<br/>
+
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+<img src="https://img.shields.io/badge/AI--assisted-412991?style=for-the-badge&logo=openai&logoColor=white" />
 
 </div>
 
