@@ -23,6 +23,7 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake-custom.svg?color_snake=00ff99&color_dots=161b22,0e4429,006d32,26a641,39d353
 
       - name: Push snake
         uses: crazy-max/ghaction-github-pages@v4
