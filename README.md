@@ -91,9 +91,9 @@ AI를 단순히 코드 생성 도구로만 사용하지 않고,
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shin-Dong-Jun&show_icons=true&theme=github_dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Shin-Dong-Jun&show_icons=true&theme=github_dark&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shin-Dong-Jun&layout=compact&theme=github_dark&hide_border=true)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shin-Dong-Jun&layout=compact&theme=github_dark&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Shin-Dong-Jun&theme=github-dark-blue&hide_border=true)
 
