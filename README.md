@@ -1,10 +1,12 @@
 <div align="center">
 
-<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:8B5CF6,100:FF9EC4&height=120&section=header" />
+<img width="100%" alt="Shin Dong Jun — Java, Spring, Backend, AI-assisted Development" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:8B5CF6,100:FF9EC4&height=220&section=header&text=Shin%20Dong%20Jun&fontSize=48&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Java%20%7C%20Spring%20%7C%20Backend%20%7C%20AI-assisted%20Development&descSize=17&descAlignY=58&descAlign=50" />
 
-<h1>Shin Dong Jun</h1>
+<br />
 
-<p><strong>Java · Spring Backend Developer</strong><br />Python · Computer Vision & OCR — Project Experience</p>
+<p>
+  <img alt="Animated introduction" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+Developer+in+Training;Java+%7C+Spring+%7C+Database;Learning+with+AI-assisted+Development;Building+reliable+server-side+systems" />
+</p>
 
 <p>설계 이유와 실행 흐름을 설명할 수 있는 백엔드 개발자를 지향합니다.</p>
 
@@ -19,27 +21,7 @@
 Java와 Spring을 중심으로 API, 데이터 모델, 인증·인가 구조를 구현하고 있습니다.
 단순히 동작하는 기능보다 **왜 이렇게 설계했는지 설명할 수 있는 코드**, 그리고 테스트와 실행 결과로 검증할 수 있는 개발을 중요하게 생각합니다.
 
-최근에는 Python으로 이미지 처리·문서 보정·로컬 OCR 도구를 만들며 Computer Vision과 OCR 활용 경험을 넓히고 있습니다. AI 도구의 결과도 그대로 받아들이기보다 코드, 테스트, 로그와 실제 동작으로 다시 확인합니다.
-
-## Featured Projects
-
-### Faniverse · Private Portfolio
-
-관계 기반 권한과 상태 전이를 중심으로 설계한 멀티 아티스트 팬덤 플랫폼
-
-`Java 21` · `Spring Boot` · `Spring Security` · `JPA` · `MySQL` · `Flyway` · `React`
-
-### Book Scan PDF Merger · Private Utility
-
-책 사진의 순서 병합, 문서 경계·Perspective 보정, Apple Vision 로컬 OCR을 제공하는 macOS GUI
-
-`Python` · `PySide6` · `OpenCV` · `NumPy` · `Pillow` · `PyObjC`
-
-### [오늘 싸피밥](https://github.com/Shin-Dong-Jun/today-ssafy-meal)
-
-식단 신뢰 상태, 반응형 탐색, 2개 메뉴 선택 룰렛과 회귀 테스트를 갖춘 정적 웹 서비스
-
-`React` · `TypeScript` · `Vite` · `Playwright` · `Netlify`
+Python과 AI 관련 라이브러리도 학습과 실습에 활용하고 있습니다. AI 도구의 결과는 그대로 받아들이기보다 코드, 테스트, 로그와 실제 동작으로 다시 확인합니다.
 
 ## Tech Stack
 
@@ -52,14 +34,13 @@ Java와 Spring을 중심으로 API, 데이터 모델, 인증·인가 구조를 �
   <img alt="Spring Data JPA" src="https://img.shields.io/badge/Spring_Data_JPA-59666C?style=flat-square" />
 </p>
 
-### Python · Computer Vision & OCR — Project Experience
+### Python · AI · Computer Vision
 
 <p>
-  <img alt="Python 3.11 and later" src="https://img.shields.io/badge/Python_3.11+-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
   <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-  <img alt="PySide6" src="https://img.shields.io/badge/PySide6-237A32?style=flat-square&logo=qt&logoColor=white" />
-  <img alt="Apple Vision OCR via PyObjC" src="https://img.shields.io/badge/Apple_Vision_OCR-PyObjC-111827?style=flat-square&logo=apple&logoColor=white" />
+  <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=111827" />
 </p>
 
 ### Data · Infrastructure · Quality
@@ -81,11 +62,11 @@ Java와 Spring을 중심으로 API, 데이터 모델, 인증·인가 구조를 �
 
 ## Engineering Focus
 
-- 관계와 상태를 명시적으로 표현하는 도메인·권한 모델
-- REST API 계약, 예외 처리와 유지보수 가능한 계층 구조
-- MySQL 실행 계획과 재현 가능한 성능 측정
+- REST API 계약과 유지보수 가능한 계층 구조
+- 데이터베이스 모델링과 쿼리 최적화
+- 인증·인가, 예외 처리와 명확한 책임 분리
 - 단위·통합·브라우저 테스트와 CI를 통한 회귀 방지
-- 문제에 필요한 만큼만 기술을 선택하고, 후보 기술과 적용 기술을 구분하는 설계
+- 문제에 필요한 만큼만 기술을 선택하는 설계
 
 ## How I Work with AI
 
