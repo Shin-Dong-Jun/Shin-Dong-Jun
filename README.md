@@ -1,106 +1,92 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:8B5CF6,100:FF9EC4&height=220&section=header&text=Shin%20Dong%20Jun&fontSize=48&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Java%20%7C%20Spring%20%7C%20Backend%20%7C%20AI-assisted%20Development&descSize=17&descAlignY=58&descAlign=50" />
+<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:8B5CF6,100:FF9EC4&height=120&section=header" />
 
-<br/>
+<h1>Shin Dong Jun</h1>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+Developer+in+Training;Java+%7C+Spring+%7C+Database;Learning+with+AI-assisted+Development;Building+reliable+server-side+systems)
+<p><strong>Java · Spring Backend Developer</strong><br />Python · Computer Vision & OCR — Project Experience</p>
 
-<br/>
+<p>설계 이유와 실행 흐름을 설명할 수 있는 백엔드 개발자를 지향합니다.</p>
 
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-<img src="https://img.shields.io/badge/AI--assisted-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<p>
+  <a href="mailto:tlsehdwns147@naver.com"><img alt="Email" src="https://img.shields.io/badge/Email-tlsehdwns147%40naver.com-2563EB?style=flat-square" /></a>
+</p>
 
 </div>
 
-## 소개
+## About Me
 
-안녕하세요.  
-Java와 Spring을 중심으로 백엔드 개발을 공부하고 있는 신동준입니다.
+Java와 Spring을 중심으로 API, 데이터 모델, 인증·인가 구조를 구현하고 있습니다.
+단순히 동작하는 기능보다 **왜 이렇게 설계했는지 설명할 수 있는 코드**, 그리고 테스트와 실행 결과로 검증할 수 있는 개발을 중요하게 생각합니다.
 
-단순히 기능을 구현하는 것보다,  
-**왜 이렇게 설계했는지 설명할 수 있는 개발자**가 되는 것을 목표로 하고 있습니다.
+최근에는 Python으로 이미지 처리·문서 보정·로컬 OCR 도구를 만들며 Computer Vision과 OCR 활용 경험을 넓히고 있습니다. AI 도구의 결과도 그대로 받아들이기보다 코드, 테스트, 로그와 실제 동작으로 다시 확인합니다.
 
-최근에는 AI 도구를 활용해 프로젝트 설계, 코드 리뷰, 리팩토링, 문서화 과정을 개선하며  
-더 빠르고 정확하게 학습하고 개발하는 방법을 익히고 있습니다.
+## Featured Projects
 
-## 관심 분야
+### Faniverse · Private Portfolio
 
-- Java / Spring 기반 백엔드 개발
-- REST API 설계
-- 데이터베이스 모델링과 쿼리 최적화
-- 인증 / 인가 구조
-- 예외 처리와 유지보수하기 쉬운 코드
-- Docker 기반 배포 환경
-- AI를 활용한 개발 생산성 향상
+관계 기반 권한과 상태 전이를 중심으로 설계한 멀티 아티스트 팬덤 플랫폼
 
-## 기술 스택
+`Java 21` · `Spring Boot` · `Spring Security` · `JPA` · `MySQL` · `Flyway` · `React`
+
+### Book Scan PDF Merger · Private Utility
+
+책 사진의 순서 병합, 문서 경계·Perspective 보정, Apple Vision 로컬 OCR을 제공하는 macOS GUI
+
+`Python` · `PySide6` · `OpenCV` · `NumPy` · `Pillow` · `PyObjC`
+
+### [오늘 싸피밥](https://github.com/Shin-Dong-Jun/today-ssafy-meal)
+
+식단 신뢰 상태, 반응형 탐색, 2개 메뉴 선택 룰렛과 회귀 테스트를 갖춘 정적 웹 서비스
+
+`React` · `TypeScript` · `Vite` · `Playwright` · `Netlify`
+
+## Tech Stack
 
 ### Backend
-<img src="https://skillicons.dev/icons?i=java,spring&theme=dark" />
 
-### Database
-<img src="https://skillicons.dev/icons?i=mysql,redis&theme=dark" />
-
-### DevOps & Tools
-<img src="https://skillicons.dev/icons?i=docker,aws,linux,nginx,git,githubactions&theme=dark" />
-
-## AI
 <p>
-
-  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-
+  <img alt="Java 21" src="https://img.shields.io/badge/Java_21-007396?style=flat-square&logo=openjdk&logoColor=white" />
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-3C7D13?style=flat-square&logo=springboot&logoColor=white" />
+  <img alt="Spring Security" src="https://img.shields.io/badge/Spring_Security-3C7D13?style=flat-square&logo=springsecurity&logoColor=white" />
+  <img alt="Spring Data JPA" src="https://img.shields.io/badge/Spring_Data_JPA-59666C?style=flat-square" />
 </p>
-## 현재 학습 중인 내용
 
-- Java, Spring Boot, Spring Security, JPA
-- 데이터베이스 설계와 SQL 쿼리 최적화
-- JWT 기반 인증 / 인가
-- 계층형 아키텍처와 DTO 설계
-- Docker, Nginx, GitHub Actions를 활용한 배포
-- AI 도구를 활용한 코드 분석, 리팩토링, 문서화
+### Python · Computer Vision & OCR — Project Experience
 
-### Tech Stack
+<p>
+  <img alt="Python 3.11 and later" src="https://img.shields.io/badge/Python_3.11+-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  <img alt="PySide6" src="https://img.shields.io/badge/PySide6-237A32?style=flat-square&logo=qt&logoColor=white" />
+  <img alt="Apple Vision OCR via PyObjC" src="https://img.shields.io/badge/Apple_Vision_OCR-PyObjC-111827?style=flat-square&logo=apple&logoColor=white" />
+</p>
 
-- Java
-- Spring Boot
-- Spring Security
-- JPA
-- MySQL
-- Redis
-- Docker
+### Data · Infrastructure · Quality
 
-## AI 활용 방식
+<p>
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="Flyway" src="https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-1457A6?style=flat-square&logo=githubactions&logoColor=white" />
+</p>
 
-AI를 단순히 코드 생성 도구로만 사용하지 않고,  
-백엔드 개발 학습과 프로젝트 완성도를 높이기 위한 보조 도구로 활용하고 있습니다.
+### Frontend Experience
 
-- 프로젝트 요구사항 정리
-- ERD와 API 명세 초안 작성
-- 코드 구조 개선 아이디어 도출
-- 테스트 케이스 설계
-- README와 기술 문서 정리
-- 면접 대비용 프로젝트 설명 정리
+<p>
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+</p>
 
-## GitHub Stats
+## Engineering Focus
 
-<div align="center">
+- 관계와 상태를 명시적으로 표현하는 도메인·권한 모델
+- REST API 계약, 예외 처리와 유지보수 가능한 계층 구조
+- MySQL 실행 계획과 재현 가능한 성능 측정
+- 단위·통합·브라우저 테스트와 CI를 통한 회귀 방지
+- 문제에 필요한 만큼만 기술을 선택하고, 후보 기술과 적용 기술을 구분하는 설계
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Shin-Dong-Jun&show_icons=true&theme=github_dark&hide_border=true)
+## How I Work with AI
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shin-Dong-Jun&layout=compact&theme=github_dark&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Shin-Dong-Jun&theme=github-dark-blue&hide_border=true)
-
-</div>
-
-## Contact
-
-- Email: tlsehdwns147@naver.com
-- Blog: 
-- Portfolio: 
+AI를 단순 코드 생성기가 아니라 요구사항 정리, 대안 비교, 코드 리뷰와 테스트 설계를 돕는 협업 도구로 사용합니다. 최종 판단은 공식 문서, 코드, 테스트와 실제 실행 결과를 근거로 내립니다.
