@@ -23,6 +23,36 @@ Java와 Spring을 중심으로 API, 데이터 모델, 인증·인가 구조를 �
 
 Python과 AI 관련 라이브러리도 학습과 실습에 활용하고 있습니다. AI 도구의 결과는 그대로 받아들이기보다 코드, 테스트, 로그와 실제 동작으로 다시 확인합니다.
 
+## 프로젝트 둘러보기
+
+[대표 프로젝트](#대표-프로젝트) · [학습](#학습) · [개인 도구](#개인-도구)
+
+### 대표 프로젝트
+
+| 프로젝트 | 내용 | 저장소 |
+| --- | --- | --- |
+| **Thisway** | 차량 운행 데이터를 수집·처리하는 차량 관제 서비스 | [팀 프로젝트 fork](https://github.com/Shin-Dong-Jun/thisway) · 공개 |
+| **Tutti** | 커머스 서비스 백엔드 | [팀 프로젝트 fork](https://github.com/Shin-Dong-Jun/tutti) · 공개 |
+| **Faniverse** | Java·Spring 기반 팬 커뮤니티 서비스. 현재 로컬 시연 단계 | 비공개 |
+
+Thisway와 Tutti의 공개 링크는 팀 프로젝트의 fork입니다. 이후 개인 유지보수·개선 작업은 별도 비공개 저장소에서 관리하며, 팀 프로젝트 당시 기여와 구분합니다.
+
+### 학습
+
+학습 기록은 현재 비공개 저장소에서 관리합니다.
+
+- **알고리즘** — `Algorithm`(백준), `SWEA`, `codeTree`에 Java 풀이를 정리합니다.
+- **SSAFY** — `ssafy-homework`에 교육 과제와 실습을 정리합니다.
+- **AI 실험** — `ssafy-vqa-experiments`에 VQA·OCR·LoRA 관련 실험을 정리합니다.
+
+### 개인 도구
+
+| 도구 | 용도 | 저장소 |
+| --- | --- | --- |
+| **오늘 싸피밥** | SSAFY 대전캠퍼스의 점심·주간 식단을 확인하는 정적 웹사이트 | [today-ssafy-meal](https://github.com/Shin-Dong-Jun/today-ssafy-meal) · 공개 |
+| **Study Capture** | 읽기 화면 캡처와 PDF 내보내기를 위한 로컬 JavaFX 앱 | 비공개 |
+| **Book Scan PDF Merger** | 책 사진을 병합·보정하여 검색 가능한 PDF로 만드는 로컬 macOS 앱 | 비공개 |
+
 ## Tech Stack
 
 ### Backend
